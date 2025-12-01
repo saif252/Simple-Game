@@ -10,6 +10,6 @@ More games will be added as I continue learning and experimenting.
 A classic game where the player competes against the computer by choosing between Rock, Paper, or Scissors.
 
 ### **Number Guessing Game**
-The computer selects a random number and the player tries to guess it within a limited number of attempts.
+The computer selects a random number and the player tries to guess it within an unlimited number of attempts.
 
 
