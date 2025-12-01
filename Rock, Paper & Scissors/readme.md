@@ -1,0 +1,31 @@
+# Rock, Paper Scissors - How to Play
+
+Start the game – Run the program.
+
+Enter your move – Type one of the following:
+
+"rock"
+
+"paper"
+
+"scissors" (or "scissor")
+
+View stats – Type "stats" to see:
+
+Wins, losses, draws
+
+Total games played
+
+Win percentage
+
+Stop the game – Type "stop" to exit the game.
+
+Game Rules
+
+Rock beats Scissors
+
+Scissors beats Paper
+
+Paper beats Rock
+
+If both you and the computer choose the same move, it’s a draw.
