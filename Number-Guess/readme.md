@@ -1,9 +1,9 @@
-Rock-Paper-Scissors Game – How to Play
+#Rock-Paper-Scissors Game – How to Play
 Overview
 
 This is a simple game where the computer thinks of a random number between 1 and 100, and your task is to guess it. The program will give hints to help you find the correct number.
 
-How to Play
+##How to Play
 
 Start the game – Run the program.
 
